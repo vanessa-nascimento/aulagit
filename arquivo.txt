@@ -1,5 +1,3 @@
-Alteração no começo do arquivo
-
 Minha primeira alteração no projeto
 
 Outra alteração posterior
